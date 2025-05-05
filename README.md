@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gander Matheus👋
 
 - 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento full-stack na empresa Simples Dental.
-- 🌱 Tenhho estudados as principais ferramentas de desenvolvimento tanto de font-end quanto de becl-end.
+- 🌱 Tenhho estudados as principais ferramentas de desenvolvimento tanto de font-end quanto de beck-end.
 - 😄 Pronomes: Ele/Dele
   
 <div style="display: inline_block"><br>
