@@ -2,9 +2,19 @@
 
 **`Desenvolvedor FullStack`**
 
-Tranalho como desenvolvedor na em uma empresa de sistemas para clinicas odontológicas, chamada Simples Denrtal. Faço parte de um projeto de desenvolvimento full-stack onde estudo as principais ferramentas de desenvolvimento tanto de front-end quanto beck-end.
+🎯Tranalho como *desenvolvedor* na em uma empresa de sistemas para clinicas odontológicas, chamada **Simples Denrtal**. Faço parte de um projeto de desenvolvimento full-stack onde estudo as principais ferramentas de desenvolvimento tanto de front-end quanto beck-end.
+📚Sou acadêmico de **Ciência da Compoutação**, com bolsa integral pela Universidade do Extremo Sul Catarinense (**UNESC**).
 
-Sou acadêmico de Ciência da Compoutação, com bolsa integral pela Universidade do Extremo Sul Catarinense (UNESC).
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Kinurama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -100,13 +110,13 @@ Sou acadêmico de Ciência da Compoutação, com bolsa integral pela Universidad
 <br/>
 <br/>
 
-### 📊 Estatísticas
+#### 🗃️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Kinurama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-kammer&layout=compact&theme=tokyonight)
+
+### 🌐 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gander-matheus-moura-gonçalves-de-araújo-b9a84519a)
