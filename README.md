@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento full-stack na empresa Simples Dental.
 - 🌱 Tenhho estudados as principais ferramentas de desenvolvimento tanto de font-end quanto de becl-end.
 - 😄 Pronomes: Ele/Dele
-- 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
