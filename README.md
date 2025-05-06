@@ -4,7 +4,7 @@
 
 ---
 
-🎯Tranalho como *desenvolvedor* na em uma empresa de sistemas para clinicas odontológicas, chamada **Simples Denrtal**. Faço parte de um projeto de desenvolvimento full-stack onde estudo as principais ferramentas de desenvolvimento tanto de front-end quanto beck-end.
+🎯Trabalho como *desenvolvedor* na em uma empresa de sistemas para clinicas odontológicas, chamada **Simples Denrtal**. Faço parte de um projeto de desenvolvimento full-stack onde estudo as principais ferramentas de desenvolvimento tanto de front-end quanto beck-end.
 
 📚Sou acadêmico de **Ciência da Compoutação**, com bolsa integral pela Universidade do Extremo Sul Catarinense (**UNESC**).
 
